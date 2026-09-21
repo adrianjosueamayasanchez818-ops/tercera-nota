@@ -1,4 +1,4 @@
-public class App {
+public class ejercicio3 {
   public static void main(String[] args) {
    int edad = 18;
 double altura = 1.77;

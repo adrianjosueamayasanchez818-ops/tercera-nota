@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class promedio {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
@@ -15,6 +15,6 @@ public class App {
 
         double promedio = suma / numeros.length;
 
-        System.out.println("el promrdio de los numeros es : " + promedio);
+        System.out.println("el promedio de los numeros es : " + promedio);
     }
 }

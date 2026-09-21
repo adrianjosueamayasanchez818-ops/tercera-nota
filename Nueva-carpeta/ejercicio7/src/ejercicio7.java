@@ -1,4 +1,4 @@
-public class App {
+public class ejercicio7 {
     public static void main(String[] args) throws Exception {
         int diner = 1000;
         int retire = 200;

@@ -1,4 +1,4 @@
-public class App {
+public class ejercicio6 {
     public static void main(String[] args) throws Exception {
     final int camisa = 25;
     final int pantalon = 35;

@@ -1,4 +1,4 @@
-public class App {
+public class ejercicio4 {
     public static void main(String[] args) throws Exception {
     final double PI = 3.1416;
     double radio = 5;

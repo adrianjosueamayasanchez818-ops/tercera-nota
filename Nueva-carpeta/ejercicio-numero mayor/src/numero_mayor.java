@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class numero_mayor {
     public static void main(String[] args) throws Exception {
        Scanner sc = new Scanner(System.in);
        System.out.println("ingrese el primer numero");

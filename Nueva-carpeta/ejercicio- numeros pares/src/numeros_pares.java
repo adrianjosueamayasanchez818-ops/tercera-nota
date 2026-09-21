@@ -1,4 +1,4 @@
-public class ejercicio {
+public class numeros_pares {
     public static void main(String[] args) throws Exception {
         int pares = 0;
         for (int i = 1; i <= 100; i++) {
