@@ -10,5 +10,6 @@ public class ejercicio9 {
 
             
         }
+        scanner.close();
     }
 }

@@ -16,5 +16,6 @@ public class promedio {
         double promedio = suma / numeros.length;
 
         System.out.println("el promedio de los numeros es : " + promedio);
+        scanner.close();
     }
 }

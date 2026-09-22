@@ -21,5 +21,6 @@ public class ejercicio5 {
     System.out.println("la multiplicacion de los dos numeros es: " + multiplicacio);
     System.out.println("la divicion de los dos numeros es: " + divicion);
     System.out.println("el modulo de los dos numeros es: " + modulo);
+    scanner.close();
     }
 }

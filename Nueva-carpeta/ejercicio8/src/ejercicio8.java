@@ -11,6 +11,6 @@ public class ejercicio8 {
         double altura = scanner.nextDouble();
 
         System.out.println("hola " + nombre + " tienes: " + edad + " años  y mides : " + altura + "metros");
-
+        scanner.close();
     }
 }
